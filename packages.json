@@ -1,10 +1,10 @@
 [
     {
-        "package": "r-swat",
+        "package": "swat",
         "url": "https://github.com/sassoftware/R-swat"
     },
     {
-        "package": "r-sasctl",
+        "package": "sasctl",
         "url": "https://github.com/sassoftware/r-sasctl"
     },
     {

@@ -1,0 +1,18 @@
+[
+    {
+        "package": "r-swat",
+        "url": "https://github.com/sassoftware/R-swat"
+    },
+    {
+        "package": "r-sasctl",
+        "url": "https://github.com/sassoftware/r-sasctl"
+    },
+    {
+        "package": "genlogis",
+        "url": "https://github.com/pinduzera/genlogis"
+    },
+    {
+        "package": "turkey",
+        "url": "https://github.com/pinduzera/turkey"
+    }
+]

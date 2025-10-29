@@ -1,5 +1,13 @@
 [
     {
+        "package": "swat",
+        "url": "https://github.com/pinduzera/R-swat-universe"
+    },
+    {
+        "package": "sasctl",
+        "url": "https://github.com/sassoftware/r-sasctl"
+    },
+    {
         "package": "genlogis",
         "url": "https://github.com/pinduzera/genlogis"
     },
